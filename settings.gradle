@@ -1,2 +1,3 @@
 rootProject.name = 'Kotlin_02'
+include 'Kotlin_03'
 
